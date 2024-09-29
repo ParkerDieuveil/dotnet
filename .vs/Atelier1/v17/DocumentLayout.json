@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Atelier1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|d:\\dotnet\\atelier1\\atelier1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9879-137D-4A23-A5A7-1DB3BB99E0F1}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:43:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T22:28:09.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T22:13:11.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Atelier1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:24:18.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Program.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Program.cs",
+              "RelativeToolTip": "Atelier1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:08:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:54:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:53:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\Atelier1\\Atelier1\\Models\\Employee.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:50:15.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
